@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./CeazarJay_2024_AT6"
+    ]
+}
