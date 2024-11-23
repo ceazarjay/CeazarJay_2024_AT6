@@ -1,0 +1,11 @@
+UserInputValidator Class Description:
+
+The UserInputValidator class is used to validate a list of user inputs and making sure that they meet specific criteria. 
+
+Main Functionality:
+- The class contains a method called validate_positive_integers, which accepts a list of strings as input.
+- This method checks each string in the list to determine if it has a valid positive integer/s.
+- Strings that meet the criteria are converted to integers and added to a new list, which is then returned.
+
+Use Case:
+This class can be used in scenarios where user inputs need to be validated, such as form submissions or data processing tasks. It makes sure that only valid positive integers are accepted, making the data cleaner and avoid errors later.
